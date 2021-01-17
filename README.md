@@ -5,3 +5,7 @@ spawns airdrop every X time.
 Drops X random items.
 Drops x y z items.
 
+Plugin requires ModLoader.dll and modded AssemblyCSharp.dll.
+These libraries located in libs/ .
+
+
